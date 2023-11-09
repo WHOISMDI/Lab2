@@ -1,0 +1,26 @@
+nav {
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    float: left;
+}
+
+aside {
+    width: 20%;
+    height: 300px;
+    background-color: green;
+    float: right;
+}
+
+main {
+    margin: 0 auto;
+    height: 300px;
+    background-color: palegreen;
+}
+
+footer {
+    margin: 0 auto;
+    width: 100%;
+    height: 150px;
+    background-color: palevioletred;
+}
